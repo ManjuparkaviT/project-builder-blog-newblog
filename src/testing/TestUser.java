@@ -1,6 +1,6 @@
 package testing;
 
-/*Uncomment the below code to test your application
+
 
 import static org.junit.Assert.*;
 
@@ -32,4 +32,4 @@ public class TestUser {
 		}
 	}
 }
-*/
+
